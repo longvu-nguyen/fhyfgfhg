@@ -1,0 +1,19 @@
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\bin\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.exe
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\bin\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.deps.json
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\bin\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.runtimeconfig.json
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\bin\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.dll
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\bin\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.pdb
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh_hóa_đơn_tiền_điện.Form1.resources
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.csproj.GenerateResource.cache
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.AssemblyInfoInputs.cache
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.AssemblyInfo.cs
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.csproj.CoreCompileInputs.cache
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.dll
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\refint\TÍnh hóa đơn tiền điện.dll
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.pdb
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh hóa đơn tiền điện.genruntimeconfig.cache
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\ref\TÍnh hóa đơn tiền điện.dll
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh_hóa_đơn_tiền_điện.Form2.resources
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh_hóa_đơn_tiền_điện.Properties.Resources.resources
+E:\BTEC FPT\SEO7201_BTEC FPT\C sharp Seo\TÍnh hóa đơn tiền điện\TÍnh hóa đơn tiền điện\obj\Debug\net8.0-windows\TÍnh_hóa_đơn_tiền_điện.Form3.resources
